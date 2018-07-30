@@ -1,0 +1,13 @@
+https://github.com/telegramdesktop/tdesktop
+https://github.com/DrKLO/Telegram
+https://github.com/UnigramDev/Unigram
+abuse@telegram.org
+https://github.com/zhukov/webogram
+security@telegram.org
+https://github.com/vysheng/tg
+https://github.com/peter-iakovlev/Telegram
+dmca@telegram.org
+http://github.com/danog/MadelineProto
+https://github.com/overtake/TelegramSwift
+https://github.com/danog/MadelineProto
+https://github.com/tdlib/td
